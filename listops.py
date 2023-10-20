@@ -11,5 +11,18 @@ cities.extend(['dhule','jalgaon','latur'])
 # cities.remove("mumbai")
 # cities.clear()
 # cities[2]="Mumbai"
-print(cities)
+# print(cities)
+
+# for city in cities:
+#     print(city.upper())
+
+fruits=('mango','apple','pineapple','grapes','kiwi','mango')
+fruits=list(fruits)
+fruits[0]="MANGO"
+fruits=tuple(fruits)
+print(fruits)
+
+
+# fruits={'mango','apple','pineapple','grapes','kiwi','mango'}
+# print(fruits)
 
