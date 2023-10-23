@@ -1,0 +1,4 @@
+some sample text in sample.txt
+this is a secod line
+thi one is third
+multiline file example
